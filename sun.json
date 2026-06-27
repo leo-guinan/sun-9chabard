@@ -1,0 +1,382 @@
+{
+  "id": "sun-9chabard",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@9chabard Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_6b939258fbe4",
+    "display_name": "9chabard",
+    "user_id": "@9chabard",
+    "description": "Community Archive-derived proof-of-search sun for @9chabard.",
+    "document_count": 16979,
+    "word_count": 235091,
+    "active_days": 558,
+    "emissions": [
+      "Think",
+      "Know",
+      "Don",
+      "Good",
+      "Shaggysurvives",
+      "Time"
+    ],
+    "generated_at": "2026-06-27T15:15:54.245370+00:00",
+    "color": "#f59e0b",
+    "mass": 12.368
+  },
+  "planets": [
+    {
+      "id": "planet_20aae9de72a5",
+      "name": "Think",
+      "summary": "Archive cluster around think: 14922 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "real",
+        "thousandfaces_",
+        "tarot",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_34cd6d58cbeb",
+          "title": "Think receipt from 2024-12-02",
+          "excerpt": "one weird thing about being a guy is you never really have any idea what’s normal for guys to do during sex cause no one tells you what other guys are doing. for instance i had no idea i was supposed to have a bra-unhooking catchphrase until yesterday",
+          "source_document_id": "1863425894196687156",
+          "timestamp": "2024-12-02T03:32:08+00:00",
+          "url": "https://x.com/9chabard/status/1863425894196687156",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, real, thousandfaces_, tarot."
+        },
+        {
+          "id": "art_616fecba1df1",
+          "title": "Think receipt from 2025-12-24",
+          "excerpt": "that's Dr. Pepper's husband. you sexist https://t.co/JUAeI3VP0K",
+          "source_document_id": "2003903061199343898",
+          "timestamp": "2025-12-24T18:58:15+00:00",
+          "url": "https://x.com/9chabard/status/2003903061199343898",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, real, thousandfaces_, tarot."
+        },
+        {
+          "id": "art_8e52dac9d89e",
+          "title": "Think receipt from 2024-11-29",
+          "excerpt": "this woman is a hero https://t.co/uYSseFYNFw",
+          "source_document_id": "1862307896551428147",
+          "timestamp": "2024-11-29T01:29:37+00:00",
+          "url": "https://x.com/9chabard/status/1862307896551428147",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, real, thousandfaces_, tarot."
+        },
+        {
+          "id": "art_03098bdd6d0b",
+          "title": "Think receipt from 2025-04-06",
+          "excerpt": "why is this headline phrased like it was written by a tree antinatalist https://t.co/aQgszjKYey",
+          "source_document_id": "1908906873857998969",
+          "timestamp": "2025-04-06T15:37:19+00:00",
+          "url": "https://x.com/9chabard/status/1908906873857998969",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, real, thousandfaces_, tarot."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5c9defbc7f60",
+      "proof_score": 1,
+      "mass": 36.517,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_dea981b4e61d",
+      "name": "Know",
+      "summary": "Archive cluster around know: 551 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "don",
+        "hardly",
+        "dont",
+        "didn"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4c98889ad037",
+          "title": "Know receipt from 2025-05-17",
+          "excerpt": "@leavingvalhalla search your feelings. you know it to be true https://t.co/S6swRFh1mL",
+          "source_document_id": "1923573605486690538",
+          "timestamp": "2025-05-17T02:57:40+00:00",
+          "url": "https://x.com/9chabard/status/1923573605486690538",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, don, hardly, dont."
+        },
+        {
+          "id": "art_0bc171496ea1",
+          "title": "Know receipt from 2025-06-17",
+          "excerpt": "you know they pick the names themselves right? you know they dont cut a blåhaj open and read the omens in its innards right https://t.co/UXBinFCtnH",
+          "source_document_id": "1934830518090256440",
+          "timestamp": "2025-06-17T04:28:37+00:00",
+          "url": "https://x.com/9chabard/status/1934830518090256440",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, don, hardly, dont."
+        },
+        {
+          "id": "art_0ca0f6bab9c4",
+          "title": "Know receipt from 2025-12-01",
+          "excerpt": "maybe all you need to know about gender differences is that men writing women badly sounds like “she breasted boobily” and women writing men badly sounds like “he vampired billionairely”",
+          "source_document_id": "1995555778623930487",
+          "timestamp": "2025-12-01T18:09:07+00:00",
+          "url": "https://x.com/9chabard/status/1995555778623930487",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, don, hardly, dont."
+        },
+        {
+          "id": "art_084484cf8a18",
+          "title": "Know receipt from 2025-06-25",
+          "excerpt": "&gt;introduce myself to guy at office hours\n&gt;he doesn't know who i am\n&gt;asks \"what's your bit?\"\n&gt;uhhh i make hardly know er jokes a lot\n&gt;\"what jokes?\"\n&gt;like \"liquor? i hardly know er!\"\n&gt;\"OH, you're THAT lysander!\"\n\nanimalihavebecome.mp3",
+          "source_document_id": "1937730381169475661",
+          "timestamp": "2025-06-25T04:31:38+00:00",
+          "url": "https://x.com/9chabard/status/1937730381169475661",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, don, hardly, dont."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9a419d435fea",
+      "proof_score": 0.981,
+      "mass": 28.191,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_14f20302074f",
+      "name": "Don",
+      "summary": "Archive cluster around don: 357 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "really",
+        "want",
+        "tarot",
+        "understand"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b0b58d111e2d",
+          "title": "Don receipt from 2024-11-29",
+          "excerpt": "@gzcl3000 the artificial 60fps-ifying function on TVs that makes everything look like a cheap soap opera that somehow old people don't notice",
+          "source_document_id": "1862362581903818900",
+          "timestamp": "2024-11-29T05:06:55+00:00",
+          "url": "https://x.com/9chabard/status/1862362581903818900",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, really, want, tarot."
+        },
+        {
+          "id": "art_5c2099ad4307",
+          "title": "Don receipt from 2026-02-12",
+          "excerpt": "“women don’t enjoy sex” is actually projection. men don’t enjoy sex, it’s an act of service to women, and if you do ever enjoy sex with a woman it means you were having gay sex with her\n\nthe romans understood this",
+          "source_document_id": "2021817854577057802",
+          "timestamp": "2026-02-12T05:25:14+00:00",
+          "url": "https://x.com/9chabard/status/2021817854577057802",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, really, want, tarot."
+        },
+        {
+          "id": "art_521656477a59",
+          "title": "Don receipt from 2025-11-03",
+          "excerpt": "\"women are always complaining about guys who don't have bedframes so i should make sure my mattress isn't on the floor if I want to get laid\" https://t.co/Ndi7q3zIhW",
+          "source_document_id": "1985422277471875103",
+          "timestamp": "2025-11-03T19:02:12+00:00",
+          "url": "https://x.com/9chabard/status/1985422277471875103",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, really, want, tarot."
+        },
+        {
+          "id": "art_9352a923ed45",
+          "title": "Don receipt from 2026-02-02",
+          "excerpt": "it’s wild how leftists believe simultaneously that they are an essential voting bloc for the democrats, that they are simply willing to stay home and let candidates like trump and vance win if the democrats nominate someone they don’t like, and also that *liberals,* not… https://t.co/4PdIfjKWx9",
+          "source_document_id": "2018440435501596900",
+          "timestamp": "2026-02-02T21:44:35+00:00",
+          "url": "https://x.com/9chabard/status/2018440435501596900",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, really, want, tarot."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_88d2b3fec163",
+      "proof_score": 0.938,
+      "mass": 27.33,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_3cca58dc445e",
+      "name": "Good",
+      "summary": "Archive cluster around good: 388 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "bad",
+        "getting",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_841c38831d39",
+          "title": "Good receipt from 2026-01-17",
+          "excerpt": "KOKO: Koko vibroblade. Practical Koko kitchen tool\nRESEARCHER: No, Koko. You can’t have a $400 knife.\nKOKO: Good vibroblade good Koko give beautiful Koko deserve gorilla\nRESEARCHER: Koko, we simply can’t afford a wireless charging knife. It is an unjustifiable expense.\nKOKO: dark… https://t.co/quZUfn2j4v",
+          "source_document_id": "2012629101702742471",
+          "timestamp": "2026-01-17T20:52:25+00:00",
+          "url": "https://x.com/9chabard/status/2012629101702742471",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, getting."
+        },
+        {
+          "id": "art_f3357e1e3f0e",
+          "title": "Good receipt from 2024-11-26",
+          "excerpt": "sci-fi author: in my book i created the vitality machine as an inspirational ambition for human flourishing\n\nbioethicist: we must prevent people from creating the vitality machine from \"Being Alive Is Good And I Like Doing It\"",
+          "source_document_id": "1861548219135860760",
+          "timestamp": "2024-11-26T23:10:55+00:00",
+          "url": "https://x.com/9chabard/status/1861548219135860760",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, getting."
+        },
+        {
+          "id": "art_c4649f02ef7b",
+          "title": "Good receipt from 2024-12-02",
+          "excerpt": "@gabriellenieche what we do* good lord",
+          "source_document_id": "1863511969653022901",
+          "timestamp": "2024-12-02T09:14:10+00:00",
+          "url": "https://x.com/9chabard/status/1863511969653022901",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, getting."
+        },
+        {
+          "id": "art_f492610ad25f",
+          "title": "Good receipt from 2025-08-19",
+          "excerpt": "well this was funny for all of 4 days. good job man-man horrors you win this round https://t.co/GZA0BlSckI https://t.co/L37v7B4nhs",
+          "source_document_id": "1957932445950734767",
+          "timestamp": "2025-08-19T22:27:26+00:00",
+          "url": "https://x.com/9chabard/status/1957932445950734767",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, getting."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5fe16a0d4f2a",
+      "proof_score": 0.946,
+      "mass": 26.855,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_6df194001793",
+      "name": "Shaggysurvives",
+      "summary": "Archive cluster around shaggysurvives: 421 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "shaggysurvives",
+        "justplaying",
+        "arabelladevine",
+        "yeah",
+        "chabard"
+      ],
+      "artifacts": [
+        {
+          "id": "art_27f56821d563",
+          "title": "Shaggysurvives receipt from 2025-02-13",
+          "excerpt": "@shaggysurvives she was technically clothed. the best kind of clothed",
+          "source_document_id": "1890180928783421489",
+          "timestamp": "2025-02-13T23:27:05+00:00",
+          "url": "https://x.com/9chabard/status/1890180928783421489",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shaggysurvives, justplaying, arabelladevine, yeah."
+        },
+        {
+          "id": "art_b83a0157ec50",
+          "title": "Shaggysurvives receipt from 2025-05-04",
+          "excerpt": "least horny shaggysurvives post https://t.co/rPqu2dufcm",
+          "source_document_id": "1918902045894992144",
+          "timestamp": "2025-05-04T05:34:33+00:00",
+          "url": "https://x.com/9chabard/status/1918902045894992144",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shaggysurvives, justplaying, arabelladevine, yeah."
+        },
+        {
+          "id": "art_a68df58aacdd",
+          "title": "Shaggysurvives receipt from 2025-07-20",
+          "excerpt": "watching @shaggysurvives carry around a child in a burlap sack as he screams for his father rn",
+          "source_document_id": "1947015559675273602",
+          "timestamp": "2025-07-20T19:27:37+00:00",
+          "url": "https://x.com/9chabard/status/1947015559675273602",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shaggysurvives, justplaying, arabelladevine, yeah."
+        },
+        {
+          "id": "art_211c5bd87869",
+          "title": "Shaggysurvives receipt from 2025-06-04",
+          "excerpt": "@shaggysurvives gonna need you to comment \"LMAAAAOOOOOO\" under this several times",
+          "source_document_id": "1930356707118723538",
+          "timestamp": "2025-06-04T20:11:17+00:00",
+          "url": "https://x.com/9chabard/status/1930356707118723538",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shaggysurvives, justplaying, arabelladevine, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a60b594bced1",
+      "proof_score": 0.955,
+      "mass": 25.26,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_b996e0e635f3",
+      "name": "Time",
+      "summary": "Archive cluster around time: 340 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "first",
+        "now",
+        "last"
+      ],
+      "artifacts": [
+        {
+          "id": "art_71e42e7d6db5",
+          "title": "Time receipt from 2024-12-07",
+          "excerpt": "one time i hit a polyamorous english major with this joke and she just rolled her eyes and said \"television\" https://t.co/ZcjcPD7vur",
+          "source_document_id": "1865306765249982679",
+          "timestamp": "2024-12-07T08:06:03+00:00",
+          "url": "https://x.com/9chabard/status/1865306765249982679",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        },
+        {
+          "id": "art_1f95db5b4c44",
+          "title": "Time receipt from 2026-03-22",
+          "excerpt": "if you didn't write your own favorite tweet of all time, that's a skill issue. https://t.co/mKl2f2mj9B https://t.co/M2y2XOlciR",
+          "source_document_id": "2035534140431544484",
+          "timestamp": "2026-03-22T01:48:52+00:00",
+          "url": "https://x.com/9chabard/status/2035534140431544484",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        },
+        {
+          "id": "art_b1f489a418d7",
+          "title": "Time receipt from 2025-11-09",
+          "excerpt": "if i was orpheus i would have simply held my iphone in front of me with the front camera turned on so i could see behind me the whole time. skill issue",
+          "source_document_id": "1987401179182346634",
+          "timestamp": "2025-11-09T06:05:39+00:00",
+          "url": "https://x.com/9chabard/status/1987401179182346634",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        },
+        {
+          "id": "art_98a244485156",
+          "title": "Time receipt from 2025-06-15",
+          "excerpt": "@catslikeseaweed i agree. last time i saw a stat it was something like... 38%? which is high but still definitely not most people",
+          "source_document_id": "1934076036041589103",
+          "timestamp": "2025-06-15T02:30:35+00:00",
+          "url": "https://x.com/9chabard/status/1934076036041589103",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bdb64916e5c2",
+      "proof_score": 0.933,
+      "mass": 27.109,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
